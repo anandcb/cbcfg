@@ -1,0 +1,5 @@
+xterm*saveLines: 9000
+XTerm*scrollBar:        true
+xterm*vt100*geometry: 110x53
+
+
