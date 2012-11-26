@@ -120,6 +120,8 @@ alias vmc='ssh -l root 10.20.47.47'
 alias xred='xterm -fg black -bg indianred'
 alias xblue='xterm -fg black -bg azure'
 alias xgreg='xterm -fg black -bg darkgrey'
+alias gitco='git commit -a -m \"commit changes\"'
+alias gitpush='git push origin master'
 
 cd $HOME
 
